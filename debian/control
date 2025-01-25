@@ -1,0 +1,21 @@
+Source: node-sass-loader
+Section: javascript
+Priority: optional
+Maintainer: s0600204 <dev@s0600204>
+Rules-Requires-Root: no
+Build-Depends:
+ debhelper-compat (= 13),
+ dh-sequence-nodejs,
+ node-babel7,
+ node-neo-async,
+ node-node-sass,
+ nodejs
+Standards-Version: 4.6.2
+Homepage: https://github.com/webpack-contrib/sass-loader
+
+Package: node-sass-loader
+Architecture: all
+Depends:
+ ${misc:Depends},
+ node-neo-async
+Description: 

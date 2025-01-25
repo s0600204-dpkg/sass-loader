@@ -1,0 +1,5 @@
+node-sass-loader (13.3.2-1) UNRELEASED; urgency=medium
+
+  * Initial packaging.
+
+ -- s0600204 <dev@s0600204>  Sat, 25 Jan 2025 14:20:00 +0000
