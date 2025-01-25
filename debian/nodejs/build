@@ -1,1 +1,1 @@
-NODE_ENV=production babel src -d dist --copy-files
+NODE_ENV=production babeljs src -d dist --copy-files

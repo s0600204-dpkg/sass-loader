@@ -4,9 +4,9 @@ Priority: optional
 Maintainer: s0600204 <dev@s0600204>
 Rules-Requires-Root: no
 Build-Depends:
+ babeljs,
  debhelper-compat (= 13),
  dh-sequence-nodejs,
- node-babel7,
  node-neo-async,
  node-node-sass,
  nodejs
